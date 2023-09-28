@@ -1,4 +1,4 @@
-# Clocks
+# Clock-in-Stupid
 If you like me struggle remembering to clock in, this is for you
 
 Notes:
